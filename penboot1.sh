@@ -1,35 +1,61 @@
-echo 'IyEvYmluL2Jhc2gKCiNjb3Jlcwpjb3JQYWRyYW89IlwwMzNbMG0iCnByZXRvPSJcMDMzWzA7MzBt
-Igp2ZXJtZWxobz0iXDAzM1swOzMxbSIKdmVyZGU9IlwwMzNbMDszMm0iCm1hcnJvbT0iXDAzM1sw
-OzMzbSIKYXp1bD0iXDAzM1swOzM0bSIKcHVycGxlPSJcMDMzWzA7MzVtIgpjeWFuPSJcMDMzWzA7
-MzZtIgpjaW56YUNsYXJvPSJcMDMzWzA7MzdtIgpwcmV0b0NpbnphPSJcMDMzWzE7MzBtIgp2ZXJt
-ZWxob0NsYXJvPSJcMDMzWzE7MzFtIgp2ZXJkZUNsYXJvPSJcMDMzWzE7MzJtIgphbWFyZWxvPSJc
-MDMzWzE7MzNtIgphenVsQ2xhcm89IlwwMzNbMTszNG0iCnB1cnBsZUNsYXJvPSJcMDMzWzE7MzVt
-IgpjeWFuQ2xhcm89IlwwMzNbMTszNm0iCmJyYW5jbz0iXDAzM1sxOzM3bSIKCiNDb3B5cmlnaHTC
-qSBOb2Npdm9DcmFja2VyIDIwMTcgLSAyMDE4CmNsZWFyCmVjaG8gIiRhenVsCQlfX19fX19fX19f
-X19fX19fX19fX19fX19fX19fX19fCgkJJGFtYXJlbG8gXyAgIF8gICAgICAgICAgICBfICAgICAg
-ICAgICAgCgkJfCBcIHwgfCBfX18gICBfX18oXylfICAgX19fX18gIAoJCXwgIFx8IHwvIF8gXCAv
-IF9ffCBcIFwgLyAvIF8gXCAKCQkkdmVyZGVDbGFyb3wgfFwgIHwgKF8pIHwgKF9ffCB8XCBWIC8g
-KF8pIHwKCQl8X3wgXF98XF9fXy8gXF9fX3xffCBcXy8gXF9fXy8KJGF6dWwJCV9fX19fX19fX19f
-X19fX19fX19fX19fX19fX19fX18iCmVjaG8gIgo9PT09PT09PT09PT09PT09PT09PT09PT09PT09
-PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CiRicmFuY28gY3JpYWRvciBkZSBwZW5k
-cml2ZSBib290YXZlbCAobmVjZXNzaXRhIG1vZG8gcm9vdCkKJGF6dWw9PT09PT09PT09PT09PT09
-PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09IgpzbGVlcCAxLjgK
-ZWNobyAiJHZlcmRlIgpsc2JsawplY2hvICIkYXp1bCIKZWNobyAiIgplY2hvICI9PT09PT09PT09
-PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
-PT09PT0KJGJyYW5jbyBkaWdpdGUgc2V1IHBlbmRyaXZlICwgZ2VyYWxtZW5kZSDDqSBvICR2ZXJk
-ZUNsYXJvIHNkYiAkYnJhbmNvIG91IG8gdWx0aW1vIGl0ZW0gZGEgbGlzdGEgOgokYXp1bD09PT09
-PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
-PT09PT09PT09PSIKZWNobyAiJGNpbnphQ2xhcm8gc2UgbsOjbyBzYWJlIHF1YWwgw6kgbyBzZXUg
-cGVuZHJpdmUgcmV0aXJlIGVsZSAsIHJlaW5pY2llIG8gc2NyaXB0IGUgdmVqYSBvIGl0ZW0gcXVl
-IGZhbHRhIgpyZWFkIHBlbgpzbGVlcCAwLjgKZWNobyAiJGF6dWwiCmVjaG8gIj09PT09PT09PT09
-PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09
-PT0iCmVjaG8gIiRicmFuY28gRGlnaXRlIG8gY2FtaW5obyBkZSBzdWEgSVNPIChpbWFnZW0pIGRl
-IHNldSBzaXN0ZW1hIGRlc2VqYWRvIDoiCmVjaG8gIiRhenVsID09PT09PT09PT09PT09PT09PT09
-PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PSIKZWNobyAi
-JGNpbnphQ2xhcm8gZXg6L2hvbWUvdXNlci9Eb3dubG9hZHMvbGludXguaXNvIgpyZWFkIGNhbWlu
-aG8Kc2xlZXAgMi4wCmVjaG8gIiIKZWNobyAiIgpjbGVhcgplY2hvICIkdmVyZGVbJHZlcm1lbGhv
-KiR2ZXJkZV0kYnJhbmNvIGNyaWFuZG8uLi4iCmVjaG8gIiRjaW56YUNsYXJvIHNlIG8gc2NyaXB0
-IGZpY2FyIHBhcmFkbyBwb3IgbXVpdG8gdGVtcG8gw6kgcG9ycXVlIHN1YSBpc28gw6kgcGVzYWRh
-IGUgZXN0w6EgZGFuZG8gY2VydG8gLCBzZSBhbGdvIGVzdGl2ZXIgaW52YWxpZG8gdmFpIGFwYXJl
-Y2VyICIKc2xlZXAgMy4wCmRkIGlmPSRjYW1pbmhvIG9mPS9kZXYvJHBlbiBicz00TQplY2hvICIk
-dmVyZGVDbGFybyBwcm9jZXNzbyB0ZXJtaW5hZG8iCgoK' | base64 -d | sh
+#!/bin/bash
+
+#cores
+corPadrao="\033[0m"
+preto="\033[0;30m"
+vermelho="\033[0;31m"
+verde="\033[0;32m"
+marrom="\033[0;33m"
+azul="\033[0;34m"
+purple="\033[0;35m"
+cyan="\033[0;36m"
+cinzaClaro="\033[0;37m"
+pretoCinza="\033[1;30m"
+vermelhoClaro="\033[1;31m"
+verdeClaro="\033[1;32m"
+amarelo="\033[1;33m"
+azulClaro="\033[1;34m"
+purpleClaro="\033[1;35m"
+cyanClaro="\033[1;36m"
+branco="\033[1;37m"
+
+#Copyright© NocivoCracker 2017 - 2018
+clear
+echo "$azul		_______________________________
+		$amarelo _   _            _            
+		| \ | | ___   ___(_)_   _____  
+		|  \| |/ _ \ / __| \ \ / / _ \ 
+		$verdeClaro| |\  | (_) | (__| |\ V / (_) |
+		|_| \_|\___/ \___|_| \_/ \___/
+$azul		_______________________________"
+echo "
+=============================================================
+$branco criador de pendrive bootavel (necessita modo root)
+$azul============================================================="
+sleep 1.8
+echo "$verde"
+lsblk
+echo "$azul"
+echo ""
+echo "========================================================================
+$branco digite seu pendrive , geralmende é o $verdeClaro sdb $branco ou o ultimo item da lista :
+$azul========================================================================"
+echo "$cinzaClaro se não sabe qual é o seu pendrive retire ele , reinicie o script e veja o item que falta"
+read pen
+sleep 0.8
+echo "$azul"
+echo "======================================================================"
+echo "$branco Digite o caminho de sua ISO (imagem) de seu sistema desejado :"
+echo "$azul ====================================================================="
+echo "$cinzaClaro ex:/home/user/Downloads/linux.iso"
+read caminho
+sleep 2.0
+echo ""
+echo ""
+clear
+echo "$verde[$vermelho*$verde]$branco criando..."
+echo "$cinzaClaro se o script ficar parado por muito tempo é porque sua iso é pesada e está dando certo , se algo estiver invalido vai aparecer "
+sleep 3.0
+dd if=$caminho of=/dev/$pen bs=4M
+echo "$verdeClaro processo terminado"
+
