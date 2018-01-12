@@ -1,7 +1,6 @@
 #!/bin/bash
 
 #cores
-
 corPadrao="\033[0m"
 preto="\033[0;30m"
 vermelho="\033[0;31m"
@@ -30,20 +29,25 @@ echo "$azul		_______________________________
 		|_| \_|\___/ \___|_| \_/ \___/
 $azul		_______________________________"
 echo "
-
-$branco criador de pendrive bootavel (necessita modo root)"
+=============================================================
+$branco criador de pendrive bootavel (necessita modo root)
+$azul============================================================="
 sleep 1.8
 echo "$verde"
 lsblk
-echo "$branco"
+echo "$azul"
 echo ""
-echo "digite seu pendrive , geralmende é o $verdeClaro sdb $branco ou o ultimo item da lista :"
+echo "========================================================================
+$branco digite seu pendrive , geralmende é o $verdeClaro sdb $branco ou o ultimo item da lista :
+$azul========================================================================"
 echo "$cinzaClaro se não sabe qual é o seu pendrive retire ele , reinicie o script e veja o item que falta"
 read pen
 sleep 0.8
-echo "$branco"
-echo ""
-echo " Digite o caminho de sua ISO (imagem) de seu sistema desejado :"; echo "$cinzaClaro ex:/home/user/Downloads/linux.iso"
+echo "$azul"
+echo "======================================================================"
+echo "$branco Digite o caminho de sua ISO (imagem) de seu sistema desejado :"
+echo "$azul ====================================================================="
+echo "$cinzaClaro ex:/home/user/Downloads/linux.iso"
 read caminho
 sleep 2.0
 echo ""
@@ -54,3 +58,5 @@ echo "$cinzaClaro se o script ficar parado por muito tempo é porque sua iso é 
 sleep 3.0
 dd if=$caminho of=/dev/$pen bs=4M
 echo "$verdeClaro processo terminado"
+
+
